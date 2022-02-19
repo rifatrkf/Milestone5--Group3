@@ -57,6 +57,6 @@ Django version 4.0.2, using settings 'milestone5.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ```
-10. Finally, Browse ‘http://127.0.0.1:8000/ . then it will show
+10. Finally, Browse http://127.0.0.1:8000/ . then it will show
 
 ![image](https://user-images.githubusercontent.com/70887963/154799164-736ebda8-f9be-4600-a85b-a889728154fd.png)
