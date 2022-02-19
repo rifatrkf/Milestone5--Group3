@@ -12,24 +12,24 @@
 
 ### Clone from Terminal
 
-'''
+```
 git clone "https://github.com/rifatrkf/Milestone5--Group3.git"
-'''
+```
 
 
 ### run the django local Host
 
 make sure we go to the directory
 
-'''
+```
 cd milestone 5
-'''
+```
 
 there is a python file named manage.py, then run it
 
-'''
+```
 python3 manage.py runserver
-'''
+```
 
 then click the address, and the output will be:
 
