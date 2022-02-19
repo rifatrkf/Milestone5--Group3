@@ -9,8 +9,12 @@
 
 ![Screenshot 2022-02-19 125614](https://user-images.githubusercontent.com/70887963/154788461-1cea0c60-6dcf-4998-9666-b479f53f885a.png)
 
+## Tools
 
-### Clone from Terminal
+Dashboard Visualization : Google data studio
+Web frameworks : Django
+
+## Clone from Terminal
 
 ```
 git clone "https://github.com/rifatrkf/Milestone5--Group3.git"
