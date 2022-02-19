@@ -1,11 +1,4 @@
-# Milestone5-Group3
-
-## IOT_Fuel-Distribution-Management-System Dashboard
-
-- Muhammad Fikri Kamiil Azhari	A18KE0318
-- Muhammad Hadhari Koko Hermaja	A18KE0319
-- Rifat Rachim Khatami Fasha	A18KE0325
-- Bhima Asyrofhi Zuliana        A16KE4005
+# Monitor IoT Fuel Distribution Dashboard
 
 ![Screenshot 2022-02-19 125614](https://user-images.githubusercontent.com/70887963/154788461-1cea0c60-6dcf-4998-9666-b479f53f885a.png)
 
