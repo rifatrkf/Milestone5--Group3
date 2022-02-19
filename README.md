@@ -13,7 +13,7 @@ First, we can directly accessing this dashboard via google data studio. Second w
   
 3. Then clone this repository with the command below:
   ```
-  git clone "https://github.com/rifatrkf/Milestone5--Group3.git"
+  git clone "https://github.com/rifatrkf/Monitor-IoT-Fuel-Distribution-Dashboard"
   ```
   
 4. We need to create the virtual environment before installing django. To find out why we use a virtual environment, we can see in the following link [Python Virtual Environment](https://www.geeksforgeeks.org/python-virtual-environment/#:~:text=A%20virtual%20environment%20is%20a,of%20the%20Python%20developers%20use.)
@@ -57,3 +57,6 @@ Django version 4.0.2, using settings 'milestone5.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ```
+10. Finally, Browse ‘http://127.0.0.1:8000/’ . then it will show
+
+![image](https://user-images.githubusercontent.com/70887963/154799164-736ebda8-f9be-4600-a85b-a889728154fd.png)
